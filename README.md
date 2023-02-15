@@ -24,7 +24,7 @@
 
 <br><br>
 
-- :school: I am a `First Year Computer Science student` at [Dublin City Univerity](https://www.dcu.ie/)
+- :school: I am a `First Year Computer Science` student at [Dublin City Univerity](https://www.dcu.ie/)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
