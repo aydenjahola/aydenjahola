@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ayden Jahola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Student;Developer;Designer;Freelancer;Technician;Software+Engineer&font=Fira%20Code&center=true&width=380&height=50"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Developer;Designer;Freelancer;Technician&font=Fira%20Code&center=true&width=380&height=50"/></a>
 </p>
 
 
@@ -24,9 +24,8 @@
 
 <br><br>
 
-- :school: I am a `Third Year Computer Science` student at [Dublin City Univerity](https://www.dcu.ie/)
+- :office: I work as a `Software Developer` at [IBM](https://www.ibm.com/) on the `Red Hat Middleware` team.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [my website](https://aydenjahola.com).
 <br>
